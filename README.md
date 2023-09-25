@@ -24,11 +24,9 @@ Links to an external site.-  Links to an external site.Links to an external site
 - www.kra.go.ke/en/individual/calculate-tax/calculating-tax/paye
 
 
+# Speed Detector
+* A program that takes the speed of a car as input e.g 80. 
+* If the speed is less than 70, it should print “Ok”. 
+* Otherwise, for every 5 km/s above the speed limit (70), it should give the driver one demerit point and print the total number of demerit points.
 
-
-
-
-Repository contains the following: 1. Title. 2. Description. 3. Set Up instructions. 4. Author and Licence.
-# title
-## header1
-### subheading (h2,h3,h4)
+   > For example, if the speed is 80, it should print: “Points: 2”. If the driver gets more than 12 points, the function should print: “License suspended”.
