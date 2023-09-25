@@ -15,6 +15,8 @@ function generateGrade() {
     grade = ("E");
 } else {
     grade "invalid grade";{
-        
+
     }
 }
+
+generateGrade();
